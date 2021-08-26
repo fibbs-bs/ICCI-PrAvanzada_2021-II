@@ -1,2 +1,2 @@
 En este repositorio guardaremos toda la info de este paralelo en este ramo
-y todo inicia con el commit inicial...
+Hola que tal me llamo UWU
