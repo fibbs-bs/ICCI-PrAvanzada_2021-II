@@ -1,0 +1,15 @@
+Illapel,Hospital Dr. Humberto Elorza Cortes-Consultorio Maria Jesus-Consultorio CESO
+Salamanca,Hospital de Salamanca-CESFAMS-URIS
+Los Vilos,Hospital San Pedro-CESFAM Ubilla-UTS sanidad
+Canela,CESFAM Parte Alta-CESFAM Urbe-CESFAM Orquestral-CESAM S.Pedro
+Coquimbo,Hospital San Pablo de Coquimbo-CESFAM La Covico-CESFAM San Pedro-CESAM Parte Alta-CES Mayor
+La Serena,Hospital San Juan de Dios-CESFAM Las compannias-CESFAM Orgne-CESAM
+Vicuña,Hospital San Juan de Dios-CESAM Las Pardas-CESFAM
+Andacollo,Hospital Dr. Jose Arranno-CESAM Andacollo-CESFAM Andacollo
+Paihuano,CESAM-CESFAM Hurrieta
+La Higuera,CESFAM Unidad-CESAM Paumaque
+Ovalle,Hospital Dr. Antonio Tirado Lanas-CESFAM Ovalle Alto-CESAM S.Pablo
+Monte Patria,CESAM El Monte
+Combarbala,Hospital San Juan de Dios-CESAM Combarbala-CESFAM
+Punitaqui,CESAM Gutierrez-CESFAM El Nacimiento
+Río Hurtado,CESAM-CESFAM Consultorio-Consultorio San Pedro de Atacama

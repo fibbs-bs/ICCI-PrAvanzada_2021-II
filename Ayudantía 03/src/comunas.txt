@@ -1,0 +1,15 @@
+Illapel,308,30848
+Salamanca,22,29347
+Los Vilos,100,21382
+Canela,12,9093
+Coquimbo,2930,227730
+La Serena,3121,221054
+Vicuña,8,27771
+Andacollo,1090,11044
+Paihuano,4,4497
+La Higuera,12,4241
+Ovalle,291,111272
+Monte Patria,891,30751
+Combarbala,1002,13322
+Punitaqui,971,10956
+Río Hurtado,2,4278

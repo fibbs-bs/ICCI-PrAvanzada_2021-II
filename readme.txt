@@ -1,2 +1,3 @@
-En este repositorio guardaremos toda la info de este paralelo en este ramo
-Hola que tal me llamo UWU
+En este repositorio guardaremos toda la info de este ramo
+Se irán subiendo paulatinamente las ayudantías, resoluciones, etc.
+Saludos!
